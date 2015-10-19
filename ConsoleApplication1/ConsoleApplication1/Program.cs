@@ -13,6 +13,10 @@ namespace ConsoleApplication1
 
             Console.WriteLine(1);
 
+            Console.ReadLine();
+
+            int a;
+
 
 
         }
